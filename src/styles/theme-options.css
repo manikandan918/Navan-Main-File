@@ -1,0 +1,271 @@
+/* ========================================
+   THEME 1: MIDNIGHT NAVY & GOLD
+   Premium Corporate Theme
+======================================== */
+
+/* :root {
+  --color-background: #101820;
+  --color-surface: #18232D;
+  --color-surface-alt: #202D38;
+
+  --color-text: #F4F3EF;
+  --color-text-muted: #A9B2BB;
+
+  --color-accent: #C6A76A;
+  --color-accent-hover: #D8BB82;
+
+  --color-border: #34414B;
+  --color-button-text: #101820;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.site-header,
+.footer {
+  background-color: var(--color-background);
+}
+
+.contact-form,
+.contact-aside,
+.service-card,
+.project-card {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+.main-nav .nav-link,
+.footer a {
+  color: var(--color-text-muted);
+}
+
+.main-nav .nav-link:hover,
+.main-nav .nav-link.active,
+.footer a:hover {
+  color: var(--color-accent);
+}
+
+.button,
+.nav-cta {
+  background-color: var(--color-accent);
+  color: var(--color-button-text);
+}
+
+.button:hover,
+.nav-cta:hover {
+  background-color: var(--color-accent-hover);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  color: inherit;
+} */
+
+/* ========================================
+   THEME 2: CHARCOAL & COPPER
+   Architectural Professional Theme
+======================================== */
+
+/* :root {
+  --color-background: #171717;
+  --color-surface: #222222;
+  --color-surface-alt: #2C2C2C;
+
+  --color-text: #F5F3F0;
+  --color-text-muted: #B5ADA6;
+
+  --color-accent: #C47A52;
+  --color-accent-hover: #DC956D;
+
+  --color-border: #414141;
+  --color-button-text: #171717;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.site-header,
+.footer {
+  background-color: var(--color-background);
+}
+
+.contact-form,
+.contact-aside,
+.service-card,
+.project-card {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+.main-nav .nav-link,
+.footer a {
+  color: var(--color-text-muted);
+}
+
+.main-nav .nav-link:hover,
+.main-nav .nav-link.active,
+.footer a:hover {
+  color: var(--color-accent);
+}
+
+.button,
+.nav-cta {
+  background-color: var(--color-accent);
+  color: var(--color-button-text);
+}
+
+.button:hover,
+.nav-cta:hover {
+  background-color: var(--color-accent-hover);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  color: inherit;
+} */
+
+/* ========================================
+   THEME 3: DEEP FOREST & SAGE
+   Refined, Understated Theme
+======================================== */
+
+/* :root {
+  --color-background: #101B18;
+  --color-surface: #192823;
+  --color-surface-alt: #24352E;
+
+  --color-text: #F0F3EF;
+  --color-text-muted: #A9B8AE;
+
+  --color-accent: #91A99A;
+  --color-accent-hover: #B0C5B7;
+
+  --color-border: #34483E;
+  --color-button-text: #101B18;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.site-header,
+.footer {
+  background-color: var(--color-background);
+}
+
+.contact-form,
+.contact-aside,
+.service-card,
+.project-card {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+.main-nav .nav-link,
+.footer a {
+  color: var(--color-text-muted);
+}
+
+.main-nav .nav-link:hover,
+.main-nav .nav-link.active,
+.footer a:hover {
+  color: var(--color-accent);
+}
+
+.button,
+.nav-cta {
+  background-color: var(--color-accent);
+  color: var(--color-button-text);
+}
+
+.button:hover,
+.nav-cta:hover {
+  background-color: var(--color-accent-hover);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  color: inherit;
+} */
+
+/* ========================================
+   THEME 4: SLATE BLUE & STEEL
+   Modern Corporate Theme
+======================================== */
+
+/* :root {
+  --color-background: #151D2B;
+  --color-surface: #1E2939;
+  --color-surface-alt: #283548;
+
+  --color-text: #F2F5F9;
+  --color-text-muted: #AAB8CA;
+
+  --color-accent: #83A9CF;
+  --color-accent-hover: #A3C2E0;
+
+  --color-border: #38485C;
+  --color-button-text: #151D2B;
+}
+
+body {
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+
+.site-header,
+.footer {
+  background-color: var(--color-background);
+}
+
+.contact-form,
+.contact-aside,
+.service-card,
+.project-card {
+  background-color: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+.main-nav .nav-link,
+.footer a {
+  color: var(--color-text-muted);
+}
+
+.main-nav .nav-link:hover,
+.main-nav .nav-link.active,
+.footer a:hover {
+  color: var(--color-accent);
+}
+
+.button,
+.nav-cta {
+  background-color: var(--color-accent);
+  color: var(--color-button-text);
+}
+
+.button:hover,
+.nav-cta:hover {
+  background-color: var(--color-accent-hover);
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  color: inherit;
+} */
